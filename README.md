@@ -1,2 +1,2 @@
-# web-crawler
- Testing a webcrawler with Guzzle
+# instructions
+composer install && php -S 0.0.0.0:4000

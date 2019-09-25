@@ -1,0 +1,14 @@
+{
+    "name": "marion/web-crawler",
+    "authors": [
+        {
+            "name": "marion",
+            "email": "marcosmariondev@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "symfony/dom-crawler": "^4.3",
+        "symfony/css-selector": "^4.3"
+    }
+}
